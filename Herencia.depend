@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1422987395 source:/home/turupawn/Projects/Clases/_Progra3/Herencia/main.cpp
+	"Personaje.h"
+	"Arquero.h"
+	"Guerrero.h"
+	"Mago.h"
+	<iostream>
+	<vector>
+
+1422987412 source:/home/turupawn/Projects/Clases/_Progra3/Herencia/Arquero.cpp
+	"Arquero.h"
+
+1422987406 /home/turupawn/Projects/Clases/_Progra3/Herencia/Arquero.h
+	"Personaje.h"
+
+1422986807 source:/home/turupawn/Projects/Clases/_Progra3/Herencia/Guerrero.cpp
+	"Guerrero.h"
+
+1422986767 /home/turupawn/Projects/Clases/_Progra3/Herencia/Guerrero.h
+	"Personaje.h"
+
+1422986890 source:/home/turupawn/Projects/Clases/_Progra3/Herencia/Mago.cpp
+	"Mago.h"
+
+1422986831 /home/turupawn/Projects/Clases/_Progra3/Herencia/Mago.h
+	"Personaje.h"
+
+1422987256 source:/home/turupawn/Projects/Clases/_Progra3/Herencia/Personaje.cpp
+	"Personaje.h"
+
+1422987266 /home/turupawn/Projects/Clases/_Progra3/Herencia/Personaje.h
+	<iostream>
+
